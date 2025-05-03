@@ -8,10 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahdevv10/index.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noahdevv10/index/issues"
+  },
+  "homepage": "https://github.com/noahdevv10/index#readme",
+  "description": ""
 }
